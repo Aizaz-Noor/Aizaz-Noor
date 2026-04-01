@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Software Engineering Student** at COMSATS University
-- 💻 Currently diving deep into **Java, JavaFX, and Object-Oriented Programming**
+- 💻 Currently diving deep into **DSA,DLD,Leet-Code**
 - 🐧 **Ubuntu Linux** is my Habitual OS
 - 🚀 Exploring ways to build scalable **SaaS** products
 - 🌱 Continuously improving my problem-solving skills and mastering data structures
