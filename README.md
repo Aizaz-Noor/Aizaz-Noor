@@ -7,7 +7,6 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Aizaz-Noor&label=Profile%20views&color=0891b2&style=for-the-badge" alt="profile views" /> 
 </p>
----
 
 ### 👨‍💻 About Me
 
@@ -33,7 +32,7 @@
 ---
 
 ### 🚀 Featured Projects
-- 🕹️ **Newton's Glitch:** A custom Flappy Bird clone developed using Java and JavaFX.
+- 🕹️**Newton's Glitch:** A custom Flappy Bird clone developed using Java and JavaFX.
 
 ---
 
@@ -104,6 +103,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=footer" alt="footer"/>
 
 <p align="center">
-  <i>⭐ From <a href="https://github.com/aizaz_noor">Aizaz Noor Khuwaja</a> - Let's connect and build something amazing!</i>
+  <i> From <a href="https://github.com/aizaz_noor">Aizaz Noor Khuwaja</a> - Let's connect and build something amazing!</i>
   <br>
 </p>
