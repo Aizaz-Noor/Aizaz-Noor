@@ -64,21 +64,19 @@
 
 ## 👋 About Me
 
-I'm a **Software Engineering student at COMSATS University, Pakistan**, with a genuine passion for building things that work — and understanding *why* they work.
+I'm a **Software Engineering student at COMSATS University, Pakistan**, with a genuine passion for building things that work and understanding *why* they work.
 
 My day-to-day revolves around sharpening problem-solving skills through **Data Structures & Algorithms**, exploring the fundamentals of **Digital Logic Design**, and thinking seriously about how to build **scalable SaaS products**. I run Ubuntu as my primary OS because I believe engineers should understand their tools down to the metal.
 
-> *"The best code is code you understand — not code that just runs."*
-
-- 🎯 **Currently focused on:** DSA mastery, LeetCode, SaaS ideation
-- 🔭 **Building toward:** A software career at a company that ships meaningful products
-- 🌱 **Learning:** Python scripting, Bash automation, Vim workflows
-- 🤝 **Open to:** Internships, entry-level roles, open-source collaboration
-- 📫 **Reach me:** [aizaznoorkhuwaja@gmail.com](mailto:aizaznoorkhuwaja@gmail.com)
+- **Currently focused on:** DSA mastery, LeetCode, SaaS ideation
+- **Building toward:** A software career at a company that ships meaningful products
+- **Learning:** Python scripting, Bash automation, Vim workflows
+- **Open to:** Internships, entry-level roles, open-source collaboration
+- **Reach me:** [aizaznoorkhuwaja@gmail.com](mailto:aizaznoorkhuwaja@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack & Skills
+##  Tech Stack & Skills
 
 <div align="center">
 
@@ -96,9 +94,9 @@ My day-to-day revolves around sharpening problem-solving skills through **Data S
 
 | Category | Technologies | Proficiency |
 |----------|-------------|-------------|
-| **Primary Languages** | Java, C, C++ | ⭐⭐⭐⭐ Strong |
+| **Primary Languages** | Java, javascript, C++, C | ⭐⭐⭐⭐ strong |
 | **Scripting** | Python, Bash | ⭐⭐⭐ Building |
-| **CS Fundamentals** | OOP, Data Structures, DLD | ⭐⭐⭐⭐ Strong |
+| **CS Fundamentals** | OOP, Data Structures, DLD | ⭐⭐⭐⭐ intermediate |
 | **Environment** | Ubuntu Linux, CLI tooling | ⭐⭐⭐⭐⭐ Daily Driver |
 | **Version Control** | Git, GitHub | ⭐⭐⭐⭐ Comfortable |
 
@@ -135,7 +133,7 @@ Currently researching real problems worth solving — where software can automat
 </tr>
 </table>
 
-> 💡 *More projects in progress — check my [repositories →](https://github.com/Aizaz-Noor?tab=repositories)*
+> 💡 *More projects in progress check my [repositories →](https://github.com/Aizaz-Noor?tab=repositories)*
 
 ---
 
@@ -165,7 +163,7 @@ Currently researching real problems worth solving — where software can automat
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -179,7 +177,7 @@ Currently researching real problems worth solving — where software can automat
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
@@ -189,7 +187,7 @@ Currently researching real problems worth solving — where software can automat
 
 ---
 
-## 💻 Competitive Programming
+## Competitive Programming
 
 <div align="center">
 
@@ -200,7 +198,7 @@ Currently researching real problems worth solving — where software can automat
 
 ---
 
-## 📈 Current Focus & Roadmap
+## Current Focus & Roadmap
 
 ```
 2025 Roadmap  ·  The Foundation Phase
@@ -217,7 +215,7 @@ Currently researching real problems worth solving — where software can automat
 
 ---
 
-## 🌐 Connect & Collaborate
+## Connect & Collaborate
 
 <div align="center">
 
@@ -236,7 +234,7 @@ Currently researching real problems worth solving — where software can automat
 >
 > I bring strong CS fundamentals, a Linux-native development mindset, and genuine curiosity about how software systems work at scale. I'm a fast learner who takes code quality and documentation seriously.
 >
-> 📄 **[View / Download My Resume →](./Aizaz_Noor_cv.pdf)**
+>  **[View / Download My Resume →](./Aizaz_Noor_cv.pdf)**
 >
 > **What I'm looking for:** Backend · Systems · Fullstack · Internship or Junior Engineer · Remote or Lahore, PK
 >
