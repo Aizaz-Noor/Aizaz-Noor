@@ -1,0 +1,48 @@
+<svg viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#010409"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="85%" cy="20%" r="60%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1e293b" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#grid)" opacity="0.5"/>
+  <rect width="1200" height="320" fill="url(#glow)"/>
+
+  <!-- top status bar -->
+  <circle cx="48" cy="46" r="5" fill="#22c55e">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="64" y="51" font-family="SFMono-Regular, Consolas, monospace" font-size="14" fill="#64748b" letter-spacing="1">STATUS: SHIPPING</text>
+  <text x="1152" y="51" text-anchor="end" font-family="SFMono-Regular, Consolas, monospace" font-size="14" fill="#64748b" letter-spacing="1">LAHORE, PK</text>
+
+  <!-- name -->
+  <text x="48" y="150" font-family="Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#f8fafc">AIZAZ NOOR KHUWAJA</text>
+
+  <!-- tagline -->
+  <text x="48" y="190" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#94a3b8">Software Engineering student who ships tools people actually run —</text>
+  <text x="48" y="218" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#94a3b8">not tutorials that sit in a folder.</text>
+
+  <!-- bottom tag chips -->
+  <g font-family="SFMono-Regular, Consolas, monospace" font-size="13" fill="#38bdf8">
+    <rect x="48" y="250" width="120" height="30" rx="15" fill="#0f172a" stroke="#1e293b"/>
+    <text x="108" y="270" text-anchor="middle">CLI TOOLS</text>
+
+    <rect x="178" y="250" width="150" height="30" rx="15" fill="#0f172a" stroke="#1e293b"/>
+    <text x="253" y="270" text-anchor="middle">AI PIPELINES</text>
+
+    <rect x="338" y="250" width="110" height="30" rx="15" fill="#0f172a" stroke="#1e293b"/>
+    <text x="393" y="270" text-anchor="middle">PYTHON</text>
+
+    <rect x="458" y="250" width="120" height="30" rx="15" fill="#0f172a" stroke="#1e293b"/>
+    <text x="518" y="270" text-anchor="middle">CI / CD</text>
+  </g>
+</svg>
