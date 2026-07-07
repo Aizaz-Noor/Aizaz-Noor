@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./E:\Projects\assets/lockscreen.svg" width="320" alt="Aizaz's lock screen" />
+<img src="./lockscreen.svg" width="320" alt="Aizaz's lock screen" />
 </div>
 
 <br/>
@@ -158,3 +158,4 @@ Lahore, Punjab, PK 🇵🇰
 </div>
 
 <sub>[home](#-unlocked)</sub>
+
