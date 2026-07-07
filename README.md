@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/lockscreen.svg" width="320" alt="Aizaz's lock screen" />
+<img src="./E:\Projects\assets/lockscreen.svg" width="320" alt="Aizaz's lock screen" />
 </div>
 
 <br/>
