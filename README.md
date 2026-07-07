@@ -1,42 +1,42 @@
-<div align="center">
+```
+AIZAZ-NOOR(1)                   User Commands                  AIZAZ-NOOR(1)
+```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=AIZAZ%20NOOR%20KHUWAJA&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=I%20ship%20real%20CLI%20tools%20and%20AI%20systems%20%E2%80%94%20not%20tutorials&descAlignY=58&descSize=17&descColor=a5f3fc" />
+# NAME
+**aizaz-noor** — software engineer; builds CLI tools and AI agent pipelines that ship, not tutorials that sit
 
-<br/>
+# SYNOPSIS
+```
+aizaz-noor [--hire] [--collaborate] [--star ANK-CINEMA | Agent-Startup-Skills]
+```
 
-### 🎬 One line, three seconds:
-### **I build production CLI tools and AI agent pipelines that real people use — this page is the receipts.**
+# DESCRIPTION
+Software Engineering student at **COMSATS University Islamabad, Lahore** (Feb 2025 – Feb 2029). Runs Ubuntu, writes Vim, ships in public. MLSA Ambassador and ACM member on the side, but the actual proof of work lives in `OPTIONS` below — two real, released, tested projects, not semester filler.
 
-<br/>
+Philosophy, unminified:
+> Ship real things. Learn in public. Build what proves you know, not what claims you know.
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=700&color=38BDF8&center=true&vCenter=true&width=780&lines=SE+Student+%40+COMSATS+University+Lahore+%F0%9F%8E%93;Built+ANK-CINEMA+%E2%80%94+9-platform+CLI%2C+18+tests%2C+shipped+%F0%9F%8E%AC;Built+Agent-Startup-Skills+%E2%80%94+8-phase+AI+SaaS+pipeline+%F0%9F%A4%96;MLSA+Ambassador+%7C+ACM+Member+%7C+Linux+Nerd+%F0%9F%90%A7;Scroll+down.+I+promise+it's+worth+it+%F0%9F%91%87" alt="Typing SVG" />
-</a>
+# OPTIONS
 
-<br/><br/>
+  **`--ank-cinema`**
+  &nbsp;&nbsp;&nbsp;&nbsp;Cross-platform terminal media downloader. Parallel multi-source search across two providers via `ThreadPoolExecutor`, dedup by info-hash, magnet enrichment across 16 trackers, self-healing DNS on Linux, remote auto-updater, portable bootstrapper that never touches system Python.
+  &nbsp;&nbsp;&nbsp;&nbsp;`Python` · `Rich` · `aria2c` · `PyInstaller` · 9 platform/version combos in CI · 18 unit tests
+  &nbsp;&nbsp;&nbsp;&nbsp;[→ github.com/Aizaz-Noor/ANK-CINEMA](https://github.com/Aizaz-Noor/ANK-CINEMA)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Aizaz-Noor&label=PROFILE%20VIEWS&color=0891b2&style=for-the-badge&labelColor=0d1117)](https://github.com/Aizaz-Noor)
-[![Followers](https://img.shields.io/github/followers/Aizaz-Noor?label=FOLLOWERS&style=for-the-badge&color=38bdf8&labelColor=0d1117)](https://github.com/Aizaz-Noor?tab=followers)
-[![Stars](https://img.shields.io/github/stars/Aizaz-Noor?label=STARS%20EARNED&style=for-the-badge&color=06b6d4&labelColor=0d1117)](https://github.com/Aizaz-Noor)
-[![Open to Work](https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-22c55e?style=for-the-badge&labelColor=0d1117)](mailto:aizaznoorkhuwaja@gmail.com)
+  **`--agent-startup-skills`**
+  &nbsp;&nbsp;&nbsp;&nbsp;An 8-phase pipeline that turns Claude Code, Codex, or Antigravity into a team of specialist personas — Market Scout → MVP Scoper → Architect → Schema Designer → Coder → Test Engineer → Security Auditor → Deploy Planner — with a mandatory human approval gate between every phase.
+  &nbsp;&nbsp;&nbsp;&nbsp;`Node.js` · `LangGraph` · one-command `npx` install · OWASP audit phase built in
+  &nbsp;&nbsp;&nbsp;&nbsp;[→ github.com/Aizaz-Noor/Agent-Startup-Skills](https://github.com/Aizaz-Noor/Agent-Startup-Skills)
 
-<br/>
+  **`--newtons-glitch`**
+  &nbsp;&nbsp;&nbsp;&nbsp;Flappy Bird rebuilt on a real Newtonian physics engine, hand-written in JavaFX. Existed to prove OOP to myself, not to a grading rubric.
 
-**[⬇️ See it work, no install needed](#-watch-it-work-live-demo)** · **[🚀 Featured builds](#-featured-builds)** · **[🛠️ Stack](#%EF%B8%8F-tools--stack)** · **[📬 Hire me](#-lets-build-something)**
+  **`--hostel-kharcha-manager`**
+  &nbsp;&nbsp;&nbsp;&nbsp;CLI expense tracker using linked lists and trees to do actual queries for actual hostel students — a DSA semester project that outgrew "semester project."
 
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## 🎥 Watch It Work — Live Demo
-
-**No clone. No install. Just watch what happens when you run it.**
-
-```bash
+# EXAMPLES
+Running the flagship tool, unmodified output:
+```
 $ ank-cinema
 
   🎬 ANK-CINEMA v3.0.1
@@ -56,221 +56,61 @@ $ ank-cinema
   [████████████████████░░░░]  82%  •  14.2 MB/s  •  ETA 0:41
 ```
 
-<div align="center">
-
-*That's the actual output shape — parallel search, hash dedup, magnet enrichment, and a real download bar.*
-**[→ Go run it yourself](https://github.com/Aizaz-Noor/ANK-CINEMA)**
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## 🚀 Featured Builds
-
-> These aren't course assignments. These have releases, tests, and CI pipelines.
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎬 ANK-CINEMA
-**Cross-platform terminal media downloader**
-
-[![Stars](https://img.shields.io/github/stars/Aizaz-Noor/ANK-CINEMA?style=flat-square&color=38bdf8&labelColor=0d1117)](https://github.com/Aizaz-Noor/ANK-CINEMA)
-[![Release](https://img.shields.io/badge/v3.0.1-blue?style=flat-square&labelColor=0d1117)](https://github.com/Aizaz-Noor/ANK-CINEMA/releases)
-[![CI](https://github.com/Aizaz-Noor/ANK-CINEMA/actions/workflows/ci.yml/badge.svg)](https://github.com/Aizaz-Noor/ANK-CINEMA/actions)
-
-Parallel multi-source search, magnet enrichment across 16 trackers, self-healing DNS, remote auto-updater, portable bootstrapper.
-
-`Python` `Rich` `ThreadPoolExecutor` `aria2c` `PyInstaller`
-
-**9** platform/Python combos tested in CI · **18** unit tests · **32** commits
-
-[**View repo →**](https://github.com/Aizaz-Noor/ANK-CINEMA)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Agent-Startup-Skills
-**8-phase AI pipeline for building SaaS**
-
-[![Stars](https://img.shields.io/github/stars/Aizaz-Noor/Agent-Startup-Skills?style=flat-square&color=38bdf8&labelColor=0d1117)](https://github.com/Aizaz-Noor/Agent-Startup-Skills)
-[![License](https://img.shields.io/badge/MIT-License-38bdf8?style=flat-square&labelColor=0d1117)](#)
-
-Turns Claude Code, Codex, or Antigravity into 8 specialist personas — Market Scout → Deploy Planner — with **mandatory human approval gates** at every stage.
-
-`Node.js` `LangGraph` `Claude Code` `YAML`
-
-Includes an OWASP security-audit phase · one-command `npx` install
-
-[**View repo →**](https://github.com/Aizaz-Noor/Agent-Startup-Skills)
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>🎮 Two more builds — click to expand</b> (JavaFX physics engine, DSA project)</summary>
-<br/>
-
-**Newton's Glitch** — `JavaFX` · Flappy Bird meets real Newtonian gravity. A custom physics engine and game-loop built from scratch to actually understand OOP, not just define it.
-
-**Hostel Kharcha Manager** — `DSA Semester Project` · CLI expense tracker for hostel students using linked lists and trees to manage real queries — data structures doing real-world work, not just passing a grading script.
-
-</details>
-
-<br/>
-
----
-
-<br/>
-
-## 🧠 The Person Behind the Commits
-
-```python
-class AizazNoor:
-    def __init__(self):
-        self.role        = "Software Engineering Student"
-        self.university  = "COMSATS University Islamabad — Lahore Campus"
-        self.batch       = "Feb 2025 – Feb 2029"
-        self.location    = "Lahore, Punjab 🇵🇰"
-        self.stack       = ["Python", "Java", "C++", "JavaScript", "Bash"]
-        self.focus       = ["CLI Tools", "SaaS Products", "AI Agents", "DSA"]
-        self.shipped     = ["ANK-CINEMA v3.0.1", "Agent-Startup-Skills v1.1.6"]
-        self.philosophy  = "Ship real things. Learn in public."
-
-    def say_hi(self):
-        print("Thanks for stopping by — let's build something real 🚀")
-
-AizazNoor().say_hi()
+# ENVIRONMENT
+```
+OS               Ubuntu Linux
+EDITOR           vim
+LANGS            Python, Java, C++, JavaScript, Bash
+STACK            GitHub Actions, PyInstaller, LangGraph, Node.js
+LOCATION         Lahore, Punjab, PK
+STATUS           open to internships & entry-level roles
 ```
 
-<br/>
+# FILES
+```
+~/experience/fiverr/saas-ai-integration        Dec 2025 – Jan 2026
+~/experience/mlsa-cui-lahore/video-editor      Feb – Jun 2024
+~/experience/acm-cui/activities-coordinator    Feb – Jun 2024
+~/experience/trivision/video-editor            Jan 2023 – Jul 2024
+~/certs/web-nexus-frontend-edition
+~/certs/google-certifications
+```
 
----
+# DIAGNOSTICS
+```
+$ aizaz-noor --status
 
-<br/>
-
-## 🛠️ Tools & Stack
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-**Tools & Environment**
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## 📈 The Numbers
+  commits this year     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░  high
+  current streak        active, checked daily
+  primary language      Python
+  response time         < 24h
+  exit code              0  (no unresolved blockers)
+```
 
 <div align="center">
-
-<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aizaz-Noor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=06b6d4&text_color=c9d1d9&border_radius=12&include_all_commits=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Aizaz-Noor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&layout=compact&border_radius=12&langs_count=8"/>
-
-<img src="https://readme-stats-fast.vercel.app/api/streak/?username=Aizaz-Noor&theme=tokyonight&hide_border=true&background=0d1117&stroke=06b6d4&ring=38bdf8&fire=06b6d4&currStreakLabel=38bdf8&border_radius=12" width="48%" alt="Streak"/>
-
+<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aizaz-Noor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=06b6d4&text_color=c9d1d9&border_radius=8&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Aizaz-Noor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&layout=compact&border_radius=8&langs_count=6"/>
 </div>
 
-<details>
-<summary><b>📊 Full activity graph + trophy case — click to expand</b></summary>
-<br/>
+# BUGS
+Known limitations, stated plainly instead of buried:
+- Not yet shipped anything at real production scale — two solid tools, not ten.
+- `Agent-Startup-Skills` needs more real-world pipeline runs before the approval-gate UX is fully proven out.
+- Portfolio is CLI/AI-heavy; frontend work is thin by comparison. Actively correcting this.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aizaz-Noor&bg_color=0d1117&color=38bdf8&line=0891b2&point=ffffff&area=true&area_color=0c4a6e&hide_border=true&radius=8" width="97%" alt="Activity Graph"/>
+Report additional bugs, or better yet, open collaborations, to the address below.
 
-<br/><br/>
+# SEE ALSO
+```
+linkedin(1)   →  linkedin.com/in/aizaz-noor
+email(1)      →  aizaznoorkhuwaja@gmail.com
+instagram(1)  →  instagram.com/aizaz_khuwaja
+leetcode(1)   →  leetcode.com/u/aizaz_khuwaja
+```
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aizaz-Noor&theme=tokyonight&no-frame=true&column=7&margin-w=12&margin-h=12&no-bg=true" alt="Trophies"/>
+# AUTHOR
+Written and maintained by **Aizaz Noor Khuwaja**. Patches, forks, and stars welcome — this manual, like the tools it documents, is a living document.
 
-</details>
-
-<br/>
-
----
-
-<br/>
-
-## 💼 Experience & Community
-
-<div align="center">
-
-| | Role | When |
-|:---:|:---|:---:|
-| 🌐 | **Fiverr** — SaaS AI Integration for startup clients | Dec 2025 – Jan 2026 |
-| 🎖️ | **MLSA CUI Lahore** — Video Editor for 1000+ member community | Feb – Jun 2024 |
-| 🏛️ | **ACM Student Chapter CUI** — Student Activities Coordinator | Feb – Jun 2024 |
-| 🎬 | **Trivision** — Video Editor (CapCut, KineMaster) | Jan 2023 – Jul 2024 |
-
-</div>
-
-<details>
-<summary><b>🏆 Certifications & competitive programming — click to expand</b></summary>
-<br/>
-
-<div align="center">
-
-[![Web Nexus](https://img.shields.io/badge/Web%20Nexus-Front%20End%20Edition-0891b2?style=for-the-badge)](#)
-[![Google](https://img.shields.io/badge/Google-Certifications-4285F4?style=for-the-badge&logo=google&logoColor=white)](#)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aizaz_khuwaja)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/aizaz_khuwaja)
-
-</div>
-
-</details>
-
-<br/>
-
----
-
-<br/>
-
-## 📬 Let's Build Something
-
-<div align="center">
-
-### 👔 Open to internships & entry-level roles — SaaS, backend, CLI, or AI-adjacent work
-### I respond within 24 hours.
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aizaznoorkhuwaja@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aizaz-noor)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aizaz_khuwaja/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aizaz-Noor)
-
-<br/>
-
-> *"Don't just learn how things work. Build something that proves you know."*
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&reversal=true" alt="footer"/>
-
-<div align="center">
-  <sub>⚡ <a href="https://github.com/Aizaz-Noor">Aizaz Noor Khuwaja</a> — building real things, one commit at a time.</sub>
-</div>
+```
+AIZAZ-NOOR(1)                   July 2026                      AIZAZ-NOOR(1)
+```
