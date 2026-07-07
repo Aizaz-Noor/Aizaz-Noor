@@ -12,9 +12,11 @@
 
 <br/>
 
-## Two years into a four-year degree. Already shipping tested, released tools.
+## Two years in. Shipping real tools.
 
-I build CLI tools and AI agent pipelines — the kind with real test suites, real CI, and real people who'd notice if they broke.
+My work started the way most do: building clones like Flappy Bird, Snake, and Minecraft. That pushed me into data structures and frontend systems like a blood bank portal and a habit tracker. 
+
+But I didn't stay there. I moved from UI to infrastructure. I started writing CLI tools and AI agent pipelines with real test suites, real CI, and users who rely on them to work.
 
 <br/>
 
@@ -34,7 +36,7 @@ I build CLI tools and AI agent pipelines — the kind with real test suites, rea
 
 ### [ANK-CINEMA](https://github.com/Aizaz-Noor/ANK-CINEMA)
 
-Cross-platform terminal media downloader. Parallel multi-source search via `ThreadPoolExecutor`, dedup by info-hash, magnet enrichment across 16 trackers, self-healing DNS on Linux, remote auto-updater, portable bootstrapper that never touches system Python.
+A cross-platform terminal media downloader. I built parallel multi-source search using `ThreadPoolExecutor`, deduplication by info-hash, and magnet enrichment across 16 trackers. It includes self-healing DNS on Linux and a remote auto-updater that never touches system Python.
 
 `Python` `Rich` `aria2c` `PyInstaller` `pytest`
 
@@ -47,7 +49,7 @@ Cross-platform terminal media downloader. Parallel multi-source search via `Thre
 
 ### [Agent-Startup-Skills](https://github.com/Aizaz-Noor/Agent-Startup-Skills)
 
-Turns Claude Code, Codex, or Antigravity into a team of 8 specialist personas that build a SaaS product end-to-end — with a mandatory human approval gate between every single phase, including a dedicated OWASP security-audit step.
+An orchestrator that turns Claude Code or Antigravity into a team of 8 specialist personas. They build SaaS products end-to-end, passing through a mandatory human approval gate between every single phase—including a strict OWASP security-audit step.
 
 `Node.js` `LangGraph` `Claude Code` `YAML`
 
@@ -56,28 +58,6 @@ One-command `npx` install · machine-readable `workflows.json` · MIT license
 </td>
 </tr>
 </table>
-
-<br/>
-
----
-
-<br/>
-
-## Toolkit
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-111318?style=flat-square&logo=python&logoColor=FFFFFF)
-![Java](https://img.shields.io/badge/Java-111318?style=flat-square&logo=openjdk&logoColor=FFFFFF)
-![C++](https://img.shields.io/badge/C++-111318?style=flat-square&logo=cplusplus&logoColor=FFFFFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-111318?style=flat-square&logo=javascript&logoColor=FFFFFF)
-![Bash](https://img.shields.io/badge/Bash-111318?style=flat-square&logo=gnubash&logoColor=FFFFFF)
-![Node.js](https://img.shields.io/badge/Node.js-111318?style=flat-square&logo=nodedotjs&logoColor=FFFFFF)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-111318?style=flat-square&logo=ubuntu&logoColor=FFFFFF)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111318?style=flat-square&logo=githubactions&logoColor=FFFFFF)
-![Vim](https://img.shields.io/badge/Vim-111318?style=flat-square&logo=vim&logoColor=FFFFFF)
-
-</div>
 
 <br/>
 
@@ -99,8 +79,8 @@ One-command `npx` install · machine-readable `workflows.json` · MIT license
   <tr>
     <td width="50%" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Aizaz-Noor&show_icons=true&hide_border=true&bg_color=00000000&title_color=F5F5F7&text_color=A1A1A6&icon_color=38bdf8&rank_icon=github&count_private=true&include_all_commits=true" />
-        <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aizaz-Noor&show_icons=true&hide_border=true&bg_color=00000000&title_color=F5F5F7&text_color=A1A1A6&icon_color=38bdf8&rank_icon=github&count_private=true&include_all_commits=true" alt="Aizaz's GitHub statistics" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Aizaz-Noor&show_icons=true&hide_border=true&bg_color=00000000&title_color=F5F5F7&text_color=A1A1A6&icon_color=38bdf8&rank_icon=github&include_all_commits=true" />
+        <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aizaz-Noor&show_icons=true&hide_border=true&bg_color=00000000&title_color=F5F5F7&text_color=A1A1A6&icon_color=38bdf8&rank_icon=github&include_all_commits=true" alt="Aizaz's GitHub statistics" />
       </picture>
     </td>
     <td width="50%" align="center">
