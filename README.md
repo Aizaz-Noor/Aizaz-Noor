@@ -4,9 +4,9 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-111318?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:aizaznoorkhuwaja@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111318?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/aizaz-noor)
-[![GitHub](https://img.shields.io/badge/GitHub-111318?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/Aizaz-Noor)
+<a href="mailto:aizaznoorkhuwaja@gmail.com"><img src="https://img.shields.io/badge/Email-111318?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/aizaz-noor"><img src="https://img.shields.io/badge/LinkedIn-111318?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" /></a>
+<a href="https://github.com/Aizaz-Noor"><img src="https://img.shields.io/badge/GitHub-111318?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
 
 </div>
 
@@ -61,9 +61,9 @@ One-command `npx` install · machine-readable `workflows.json` · MIT license
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Aizaz-Noor&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS)](https://github.com/Aizaz-Noor)
-[![Followers](https://img.shields.io/github/followers/Aizaz-Noor?style=for-the-badge&logo=github&color=8E5CFF&label=FOLLOWERS)](https://github.com/Aizaz-Noor?tab=followers)
-[![Location](https://img.shields.io/badge/LAHORE-111318?style=for-the-badge&logo=googlemaps&logoColor=64D2FF)](https://github.com/Aizaz-Noor)
+<a href="https://github.com/Aizaz-Noor"><img src="https://komarev.com/ghpvc/?username=Aizaz-Noor&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS" alt="Profile Views" /></a>
+<a href="https://github.com/Aizaz-Noor?tab=followers"><img src="https://img.shields.io/github/followers/Aizaz-Noor?style=for-the-badge&logo=github&color=8E5CFF&label=FOLLOWERS" alt="Followers" /></a>
+<a href="https://github.com/Aizaz-Noor"><img src="https://img.shields.io/badge/LAHORE-111318?style=for-the-badge&logo=googlemaps&logoColor=64D2FF" alt="Location" /></a>
 
 <br/><br/>
 
