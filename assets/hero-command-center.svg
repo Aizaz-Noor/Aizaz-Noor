@@ -85,7 +85,7 @@
     <g class="float3">
       <rect x="1010" y="382" width="136" height="74" rx="15" fill="url(#glass)" stroke="#fff" stroke-opacity=".13"/>
       <text x="1027" y="406" class="mono" font-size="10" fill="#777782">SAAS FOCUS</text>
-      <text x="1027" y="437" class="sans" font-size="19" font-weight="700" fill="#f5f5f7">ECO-DORM</text>
+      <text x="1027" y="437" class="sans" font-size="19" font-weight="700" fill="#f5f5f7">Weekly Habit Tracker</text>
     </g>
     <path class="packet" d="M642 306H766M1007 306H1147" stroke="url(#rail)" stroke-width="2" stroke-dasharray="7 14"/>
 
