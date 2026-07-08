@@ -14,9 +14,7 @@
 
 ## Two years in. Shipping real tools.
 
-My work started the way most do: building clones like Flappy Bird, Snake, and Minecraft. That pushed me into data structures and frontend systems like a blood bank portal and a habit tracker. 
-
-But I didn't stay there. I moved from UI to infrastructure. I started writing CLI tools and AI agent pipelines with real test suites, real CI, and users who rely on them to work.
+My work started the way most do: building clones like Flappy Bird, Snake, and Minecraft. That pushed me into data structures and frontend systems like a blood bank portal and a habit tracker. But I didn't stay there. I moved from UI to infrastructure. I started writing CLI tools and AI agent pipelines with real test suites, real CI, and users who rely on them to work.
 
 <br/>
 
@@ -26,13 +24,13 @@ But I didn't stay there. I moved from UI to infrastructure. I started writing CL
 
 ## Selected work
 
+<img src="./assets/ank-cinema-pipeline.svg" width="100%" alt="ANK-CINEMA request pipeline architecture" />
 <br/>
+<img src="./assets/agent-pipeline.svg" width="100%" alt="Agent-Startup-Skills 8-phase approval-gated pipeline" />
 
 <table>
 <tr>
 <td width="50%" valign="top">
-
-<img src="./assets/ank-cinema-pipeline.svg" width="100%" alt="ANK-CINEMA request pipeline architecture" />
 
 ### [ANK-CINEMA](https://github.com/Aizaz-Noor/ANK-CINEMA)
 
@@ -44,8 +42,6 @@ A cross-platform terminal media downloader. I built parallel multi-source search
 
 </td>
 <td width="50%" valign="top">
-
-<img src="./assets/agent-pipeline.svg" width="100%" alt="Agent-Startup-Skills 8-phase approval-gated pipeline" />
 
 ### [Agent-Startup-Skills](https://github.com/Aizaz-Noor/Agent-Startup-Skills)
 
@@ -61,11 +57,7 @@ One-command `npx` install · machine-readable `workflows.json` · MIT license
 
 <br/>
 
----
-
-<br/>
-
-## Open-source signal
+## Engineering, measured
 
 <div align="center">
 
@@ -105,20 +97,6 @@ One-command `npx` install · machine-readable `workflows.json` · MIT license
 
 <br/>
 
----
+> Two shipped tools. No inflated claims. Everything above is verifiable by clicking through.
 
 <br/>
-
-<div align="center">
-
-### Let's build something worth trusting.
-
-Open to internships and entry-level roles — SaaS, backend, CLI, or AI-adjacent work.
-
-[**Email me →**](mailto:aizaznoorkhuwaja@gmail.com) &nbsp;&nbsp; [**Connect on LinkedIn →**](https://www.linkedin.com/in/aizaz-noor)
-
-<br/>
-
-<sub>Two shipped tools. No inflated claims. Everything above is verifiable by clicking through.</sub>
-
-</div>
