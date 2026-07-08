@@ -83,9 +83,11 @@
       <text x="1017" y="248" class="sans" font-size="18" font-weight="700" fill="#f5f5f7">ANK-CINEMA</text>
     </g>
    <g class="float3">
-      <rect x="970" y="382" width="186" height="74" rx="15" fill="url(#glass)" stroke="#fff" stroke-opacity=".13"/>
-      <text x="987" y="406" class="mono" font-size="10" fill="#777782">SAAS FOCUS</text>
-      <text x="987" y="437" class="sans" font-size="17" font-weight="700" fill="#f5f5f7">Weekly Habit Tracker</text>
+      <!-- Width matches the card above, height increased to fit two lines of text -->
+      <rect x="1000" y="372" width="146" height="88" rx="15" fill="url(#glass)" stroke="#fff" stroke-opacity=".13"/>
+      <text x="1017" y="396" class="mono" font-size="10" fill="#777782">SAAS FOCUS</text>
+      <text x="1017" y="422" class="sans" font-size="16" font-weight="700" fill="#f5f5f7">Weekly Habit</text>
+      <text x="1017" y="444" class="sans" font-size="16" font-weight="700" fill="#f5f5f7">Tracker</text>
     </g>
     <path class="packet" d="M642 306H766M1007 306H1147" stroke="url(#rail)" stroke-width="2" stroke-dasharray="7 14"/>
 
