@@ -1,25 +1,36 @@
 <div align="center">
 
-<img src="./assets/hero-command-center.svg" width="100%" alt="Aizaz Noor Khuwaja — Software Engineer, 3D Web & CLI Tools" />
+<img src="./assets/hero-command-center.svg" width="100%" alt="Aizaz Noor Khuwaja — Software Engineer, 3D Web & CLI Systems" />
 
-<br/>
+<br/><br/>
 
-[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-aizaznoorkhuwaja.vercel.app-818cf8?style=for-the-badge&logo=vercel&logoColor=white)](https://aizaznoorkhuwaja.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aizaz-noor)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aizaznoorkhuwaja@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aizaz-Noor)
+<a href="https://aizaznoorkhuwaja.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-090A12?style=for-the-badge&logo=vercel&logoColor=64D2FF" alt="Live Portfolio" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/aizaz-noor" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-090A12?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:aizaznoorkhuwaja@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-090A12?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+</a>
+&nbsp;
+<a href="https://github.com/Aizaz-Noor" target="_blank">
+  <img src="https://img.shields.io/badge/GITHUB-090A12?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+</a>
 
 </div>
 
 <br/>
 
-##  About Me
+## ✦ About Me
 
-Software Engineering undergraduate at **COMSATS University Islamabad (Lahore Campus)** building responsive **MERN stack** web applications, **3D WebGL** interactive experiences, memory-efficient **CLI utilities**, and exploring **DevOps, cloud systems, and AI automation**.
+Software Engineering undergraduate at **COMSATS University Islamabad (Lahore Campus)** specializing in **interactive 3D web interfaces**, **full-stack MERN architectures**, and **high-throughput CLI utilities**.
 
-- **Current Focus:** Full-stack SaaS development (MERN, TypeScript, Node.js), 3D Web (Three.js / React Three Fiber), and high-performance terminal systems.
-- **Education:** BSE Software Engineering (COMSATS University Islamabad, Lahore Campus).
-- **Philosophy:** Clean code, robust data structures, zero-slop design aesthetics, and shipping real software.
+- **Focus Areas:** 3D Web Engineering (Three.js / React Three Fiber), Full-Stack SaaS (React 19, Node.js, Express, MongoDB), and Systems Tooling (C++, Python).
+- **Academic Foundation:** BSE Software Engineering, COMSATS University Islamabad.
+- **Core Principles:** Deterministic state management, clean data structures, accessible design systems, and verified performance.
 
 <br/>
 
@@ -27,38 +38,30 @@ Software Engineering undergraduate at **COMSATS University Islamabad (Lahore Cam
 
 <br/>
 
-## Technical Arsenal
+## 🛠️ Technical Arsenal
 
 <table>
   <tr>
-    <td width="25%" valign="top"><strong>Languages</strong></td>
-    <td width="75%">
-      <code>Python</code> · <code>C++</code> · <code>Java</code> · <code>JavaScript (ES6+)</code> · <code>TypeScript</code> · <code>Bash</code> · <code>SQL</code>
-    </td>
+    <td width="24%"><strong>Languages</strong></td>
+    <td><code>Python</code> · <code>C++</code> · <code>Java</code> · <code>JavaScript (ES6+)</code> · <code>TypeScript</code> · <code>SQL</code> · <code>Bash</code></td>
   </tr>
   <tr>
-    <td width="25%" valign="top"><strong>Frontend & 3D</strong></td>
-    <td width="75%">
-      <code>React 19</code> · <code>Three.js</code> · <code>React Three Fiber</code> · <code>Drei</code> · <code>HTML5 / CSS3</code> · <code>Tailwind CSS</code>
-    </td>
+    <td width="24%"><strong>Frontend &amp; 3D</strong></td>
+    <td><code>React 19</code> · <code>Three.js</code> · <code>React Three Fiber</code> · <code>Drei</code> · <code>Tailwind CSS</code> · <code>HTML5 / CSS3</code></td>
   </tr>
   <tr>
-    <td width="25%" valign="top"><strong>Backend & Data</strong></td>
-    <td width="75%">
-      <code>Node.js</code> · <code>Express.js</code> · <code>MongoDB</code> · <code>MySQL</code> · <code>RESTful APIs</code> · <code>DBMS</code>
-    </td>
+    <td width="24%"><strong>Backend &amp; Data</strong></td>
+    <td><code>Node.js</code> · <code>Express.js</code> · <code>MongoDB</code> · <code>MySQL</code> · <code>RESTful APIs</code> · <code>DBMS</code></td>
   </tr>
   <tr>
-    <td width="25%" valign="top"><strong>DevOps & Tools</strong></td>
-    <td width="75%">
-      <code>Git & GitHub</code> · <code>Docker</code> · <code>Vite 8</code> · <code>Linux / Shell</code> · <code>Vercel</code> · <code>aria2c</code> · <code>PyInstaller</code>
-    </td>
+    <td width="24%"><strong>Tools &amp; DevOps</strong></td>
+    <td><code>Git &amp; GitHub</code> · <code>Docker</code> · <code>Vite 8</code> · <code>Linux</code> · <code>Vercel</code> · <code>aria2c</code> · <code>PyInstaller</code></td>
   </tr>
 </table>
 
 <br/>
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <img src="./assets/ank-cinema-pipeline.svg" width="100%" alt="ANK-CINEMA request pipeline architecture" />
 
@@ -66,37 +69,46 @@ Software Engineering undergraduate at **COMSATS University Islamabad (Lahore Cam
   <tr>
     <td width="50%" valign="top">
 
-### [3D Interactive Portfolio](https://github.com/Aizaz-Noor/MyCV) · [Live Demo ↗](https://aizaznoorkhuwaja.vercel.app/)
-Interactive 3D developer showcase engineered with hardware-accelerated WebGL particle vortex and Apple-grade Liquid Glass UI.
-- **Features:** VisionOS 3D mouse parallax, 1px top specular rim light catches, Emil Kowalski spring physics, zero-re-render custom cursor, and in-browser resume PDF viewer.
-- **Stack:** `React 19` `Three.js` `React Three Fiber` `Vite 8` `CSS3 Glassmorphism`
+### 🌐 [3D Interactive Portfolio](https://github.com/Aizaz-Noor/MyCV) · [Live Demo ↗](https://aizaznoorkhuwaja.vercel.app/)
+Interactive 3D developer showcase engineered with a hardware-accelerated WebGL particle vortex and Apple-grade Liquid Glass UI.
+- **Key Features:** VisionOS 3D mouse parallax, 1px top specular rim light catches, Emil Kowalski spring physics, zero-re-render custom cursor, and in-browser resume PDF viewer.
+- **Tech Stack:** `React 19` `Three.js` `React Three Fiber` `Vite 8` `Liquid Glass CSS`
 
     </td>
     <td width="50%" valign="top">
 
-### [ANK-CINEMA](https://github.com/Aizaz-Noor/ANK-CINEMA)
-Cross-platform terminal CLI media downloader with parallel multi-source search engine.
-- **Features:** Sub-second torrent resolution, magnet enrichment across 16 trackers, info-hash deduplication, self-healing DNS on Linux, and zero-python-dependency distribution.
-- **Stack:** `Python` `Rich` `aria2c` `PyInstaller` `pytest` · **v3.0.1 Released**
+### 🎬 [ANK-CINEMA](https://github.com/Aizaz-Noor/ANK-CINEMA)
+Cross-platform terminal media downloader featuring a parallel multi-source search engine.
+- **Key Features:** Sub-second torrent resolution, magnet enrichment across 16 trackers, info-hash deduplication, self-healing DNS on Linux, and zero-python-dependency distribution.
+- **Tech Stack:** `Python` `Rich` `aria2c` `PyInstaller` `pytest` · **v3.0.1 Released**
 
     </td>
   </tr>
+  <tr>
     <td width="50%" valign="top">
 
-### [Weekly Habit Tracker](https://github.com/Aizaz-Noor/habit-tracker) · [Live Demo ↗](https://habit-tracker-beryl-chi.vercel.app)
-Interactive single-page habit tracker with responsive weekly visualization.
-- **Features:** Multi-week streak calculation engine, zero-latency local storage state management, dynamic completion analytics, and responsive grid layout.
-- **Stack:** `React` `Vite` `Tailwind CSS` `State Management`
+### 🎮 [Newton's Glitch](https://github.com/Aizaz-Noor/Newtons-Glitch)
+Physics-driven JavaFX arcade game built from mathematical first principles without external physics engines.
+- **Key Features:** Custom 60 FPS 2D rigid-body engine handling 100+ simultaneous collisions, gravity-inversion mechanics, velocity vectors, and restitution math.
+- **Tech Stack:** `Java` `JavaFX` `Custom Physics Engine` `Game Dev`
+
+    </td>
+    <td width="50%" valign="top">
+
+### 📊 [Weekly Habit Tracker](https://github.com/Aizaz-Noor/habit-tracker) · [Live Demo ↗](https://habit-tracker-beryl-chi.vercel.app)
+Responsive habit analytics web application with multi-week streak evaluation.
+- **Key Features:** Real-time streak calculation engine, zero-latency local storage state sync, completion analytics, and responsive grid layout.
+- **Tech Stack:** `React` `Vite` `Tailwind CSS` `State Management`
 
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
 
-### [Hostel Kharcha Manager](https://github.com/Aizaz-Noor/Hostel-Kharcha-Manager)
+### 🏨 [Hostel Kharcha Manager](https://github.com/Aizaz-Noor/Hostel-Kharcha-Manager)
 Terminal-based collaborative expense tracker engineered in C++ for shared living environments.
-- **Features:** Custom hash map data structures, automated budget report generation, interactive Text User Interface (TUI), and persistent file storage.
-- **Stack:** `C++` `Terminal UI` `Custom Hash Maps` `Data Structures`
+- **Key Features:** Custom hash map data structures, automated budget report generation, interactive Text User Interface (TUI), and persistent file storage.
+- **Tech Stack:** `C++` `Terminal UI` `Custom Hash Maps` `Data Structures`
 
     </td>
   </tr>
@@ -104,33 +116,35 @@ Terminal-based collaborative expense tracker engineered in C++ for shared living
 
 <br/>
 
-## Verified Certifications & Leadership
+## 📜 Verified Certifications & Leadership
 
-- 🏅 **Microsoft Learn Student Ambassador** Microsoft (2025)
-- 🏅 **Career & Soft Skills Program** Google / PFA (2024)
-- 🏅 **Frontend Web Development** MLSA FAST Peshawar (2024)
-- 🏅 **Event Emperors & 404 Squad** ACM CUI Lahore Chapter (2024)
+- 🎖️ **Microsoft Learn Student Ambassador** — Microsoft (2025)
+- 🎖️ **Career & Soft Skills Program** — Google / PFA (2024)
+- 🎖️ **Frontend Web Development** — MLSA FAST Peshawar (2024)
+- 🎖️ **Event Emperors & 404 Squad Lead** — ACM CUI Lahore Chapter (2024)
 
 <br/>
 
-## Engineering Telemetry & Activity
+## 📊 Engineering Telemetry & Activity
 
 <div align="center">
 
-<a href="https://github.com/Aizaz-Noor"><img src="https://komarev.com/ghpvc/?username=Aizaz-Noor&style=for-the-badge&color=818cf8&label=PROFILE+VIEWS" alt="Profile Views" /></a>
-<a href="https://github.com/Aizaz-Noor?tab=followers"><img src="https://img.shields.io/github/followers/Aizaz-Noor?style=for-the-badge&logo=github&color=34d399&label=FOLLOWERS" alt="Followers" /></a>
-<a href="https://github.com/Aizaz-Noor"><img src="https://img.shields.io/badge/LOCATION-LAHORE%2C%20PK-38bdf8?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /></a>
+<a href="https://github.com/Aizaz-Noor"><img src="https://komarev.com/ghpvc/?username=Aizaz-Noor&style=flat-square&color=2997ff&label=PROFILE+VIEWS" alt="Profile Views" /></a>
+&nbsp;
+<a href="https://github.com/Aizaz-Noor?tab=followers"><img src="https://img.shields.io/github/followers/Aizaz-Noor?style=flat-square&logo=github&color=bf5af2&label=FOLLOWERS" alt="Followers" /></a>
+&nbsp;
+<a href="https://github.com/Aizaz-Noor"><img src="https://img.shields.io/badge/LOCATION-LAHORE%2C%20PK-30d158?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" /></a>
 
 <br/><br/>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aizaz-Noor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=38bdf8&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aizaz-Noor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2997ff&icon_color=64d2ff&text_color=c9d1d9&border_radius=12" alt="GitHub Stats" height="170"/>
   &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Aizaz-Noor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&layout=compact&border_radius=10" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Aizaz-Noor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2997ff&text_color=c9d1d9&layout=compact&border_radius=12" alt="Top Languages" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-stats-fast.vercel.app/api/streak/?username=Aizaz-Noor&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=818cf8&fire=38bdf8&currStreakLabel=38bdf8&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://readme-stats-fast.vercel.app/api/streak/?username=Aizaz-Noor&theme=tokyonight&hide_border=true&background=0d1117&stroke=2997ff&ring=bf5af2&fire=2997ff&currStreakLabel=64d2ff&border_radius=12" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
@@ -141,7 +155,7 @@ Terminal-based collaborative expense tracker engineered in C++ for shared living
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aizaz-Noor&bg_color=00000000&color=A1A1A6&line=38bdf8&point=818cf8&area=true&area_color=38bdf8&hide_border=true&custom_title=Contribution%20Telemetry" alt="GitHub contribution activity graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aizaz-Noor&bg_color=00000000&color=A1A1A6&line=2997ff&point=bf5af2&area=true&area_color=2997ff&hide_border=true&custom_title=Contribution%20Telemetry" alt="GitHub contribution activity graph" />
 
 <br/>
 
@@ -158,5 +172,5 @@ Terminal-based collaborative expense tracker engineered in C++ for shared living
 ---
 
 <div align="center">
-  <sub>Built with engineering intent · <a href="https://aizaznoorkhuwaja.vercel.app/">aizaznoorkhuwaja.vercel.app</a></sub>
+  <sub>Engineered with precision · <a href="https://aizaznoorkhuwaja.vercel.app/">aizaznoorkhuwaja.vercel.app</a></sub>
 </div>
