@@ -16,9 +16,6 @@
   <img src="https://img.shields.io/badge/EMAIL-090A12?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
 </a>
 &nbsp;
-<a href="https://github.com/Aizaz-Noor" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-090A12?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
-</a>
 
 </div>
 
@@ -47,7 +44,7 @@ I am a Software Engineering student at **COMSATS University Islamabad (Lahore Ca
   </tr>
   <tr>
     <td width="22%"><strong>Frontend &amp; 3D</strong></td>
-    <td><code>React 19</code> · <code>Three.js</code> · <code>Tailwind CSS</code> · <code>HTML5</code> · <code>CSS3</code></td>
+    <td><code>React 19</code> · <code>Three.js</code> · <code>Tailwind CSS</code> · <code>HTML5</code> · <code>CSS3</code></td> · <code>JavaFx</code>
   </tr>
   <tr>
     <td width="22%"><strong>Backend &amp; DB</strong></td>
