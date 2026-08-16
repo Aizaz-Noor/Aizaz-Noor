@@ -24,7 +24,7 @@
 
 <br/>
 
-## ✦ About Me
+## About Me
 
 Software Engineering undergraduate at **COMSATS University Islamabad (Lahore Campus)** specializing in **interactive 3D web interfaces**, **full-stack MERN architectures**, and **high-throughput CLI utilities**.
 
@@ -38,30 +38,30 @@ Software Engineering undergraduate at **COMSATS University Islamabad (Lahore Cam
 
 <br/>
 
-## 🛠️ Technical Arsenal
+## Technical Arsenal
 
 <table>
   <tr>
     <td width="24%"><strong>Languages</strong></td>
-    <td><code>Python</code> · <code>C++</code> · <code>Java</code> · <code>JavaScript (ES6+)</code> · <code>TypeScript</code> · <code>SQL</code> · <code>Bash</code></td>
+    <td><code>Python</code> · <code>C++</code> · <code>Java</code> · <code>JavaScript (ES6+)</code> · <code>SQL</code> </td>
   </tr>
   <tr>
     <td width="24%"><strong>Frontend &amp; 3D</strong></td>
-    <td><code>React 19</code> · <code>Three.js</code> · <code>React Three Fiber</code> · <code>Drei</code> · <code>Tailwind CSS</code> · <code>HTML5 / CSS3</code></td>
+    <td><code>React 19</code> · <code>Three.js</code> · <code>Tailwind CSS</code> · <code>HTML5 / CSS3</code></td>
   </tr>
   <tr>
     <td width="24%"><strong>Backend &amp; Data</strong></td>
-    <td><code>Node.js</code> · <code>Express.js</code> · <code>MongoDB</code> · <code>MySQL</code> · <code>RESTful APIs</code> · <code>DBMS</code></td>
+    <td><code>MySQL</code> · <code>RESTful APIs</code> · <code>DBMS</code></td>
   </tr>
   <tr>
     <td width="24%"><strong>Tools &amp; DevOps</strong></td>
-    <td><code>Git &amp; GitHub</code> · <code>Docker</code> · <code>Vite 8</code> · <code>Linux</code> · <code>Vercel</code> · <code>aria2c</code> · <code>PyInstaller</code></td>
+    <td><code>Git &amp; GitHub</code> · <code>Vite 8</code> · <code>Linux</code> · <code>Vercel</code></td>
   </tr>
 </table>
 
 <br/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <img src="./assets/ank-cinema-pipeline.svg" width="100%" alt="ANK-CINEMA request pipeline architecture" />
 
@@ -84,15 +84,6 @@ Cross-platform terminal media downloader featuring a parallel multi-source searc
 
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🎮 [Newton's Glitch](https://github.com/Aizaz-Noor/Newtons-Glitch)
-Physics-driven JavaFX arcade game built from mathematical first principles without external physics engines.
-- **Key Features:** Custom 60 FPS 2D rigid-body engine handling 100+ simultaneous collisions, gravity-inversion mechanics, velocity vectors, and restitution math.
-- **Tech Stack:** `Java` `JavaFX` `Custom Physics Engine` `Game Dev`
-
-    </td>
     <td width="50%" valign="top">
 
 ### 📊 [Weekly Habit Tracker](https://github.com/Aizaz-Noor/habit-tracker) · [Live Demo ↗](https://habit-tracker-beryl-chi.vercel.app)
@@ -116,7 +107,7 @@ Terminal-based collaborative expense tracker engineered in C++ for shared living
 
 <br/>
 
-## 📜 Verified Certifications & Leadership
+## Verified Certifications & Leadership
 
 - 🎖️ **Microsoft Learn Student Ambassador** — Microsoft (2025)
 - 🎖️ **Career & Soft Skills Program** — Google / PFA (2024)
@@ -125,7 +116,7 @@ Terminal-based collaborative expense tracker engineered in C++ for shared living
 
 <br/>
 
-## 📊 Engineering Telemetry & Activity
+## Engineering Telemetry & Activity
 
 <div align="center">
 
