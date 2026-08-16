@@ -26,9 +26,9 @@
 
 ## About Me
 
-Software Engineering undergraduate at **COMSATS University Islamabad (Lahore Campus)** specializing in **interactive 3D web interfaces**, **full-stack MERN architectures**, and **high-throughput CLI utilities**.
+Software Engineering undergraduate at **COMSATS University Islamabad** specializing in **interactive 3D web interfaces**, **Aspiring AiOps**, and **high-throughput CLI utilities**.
 
-- **Focus Areas:** 3D Web Engineering (Three.js / React Three Fiber), Full-Stack SaaS (React 19, Node.js, Express, MongoDB), and Systems Tooling (C++, Python).
+- **Focus Areas:** 3D Web Engineering (Three.js / React Three Fiber),AI-Full-Stack SaaS (React 19, Node.js, Express, MongoDB), and Systems Tooling (C++, Python).
 - **Academic Foundation:** BSE Software Engineering, COMSATS University Islamabad.
 - **Core Principles:** Deterministic state management, clean data structures, accessible design systems, and verified performance.
 
@@ -43,7 +43,7 @@ Software Engineering undergraduate at **COMSATS University Islamabad (Lahore Cam
 <table>
   <tr>
     <td width="24%"><strong>Languages</strong></td>
-    <td><code>Python</code> · <code>C++</code> · <code>Java</code> · <code>JavaScript (ES6+)</code> · <code>SQL</code> </td>
+    <td><code>Python</code> · <code>C++</code> · <code>Java</code> · <code>JavaScript</code> · <code>SQL</code> </td>
   </tr>
   <tr>
     <td width="24%"><strong>Frontend &amp; 3D</strong></td>
