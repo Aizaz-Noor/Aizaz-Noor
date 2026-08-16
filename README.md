@@ -43,19 +43,19 @@ I am a Software Engineering student at **COMSATS University Islamabad (Lahore Ca
 <table>
   <tr>
     <td width="22%"><strong>Languages</strong></td>
-    <td><code>Python</code> · <code>C++</code> · <code>Java</code> · <code>JavaScript (ES6+)</code> · <code>TypeScript</code> · <code>SQL</code> · <code>Bash</code></td>
+    <td><code>Python</code> · <code>C++</code> · <code>Java</code> · <code>JavaScript</code> · <code>SQL</code></td>
   </tr>
   <tr>
     <td width="22%"><strong>Frontend &amp; 3D</strong></td>
-    <td><code>React 19</code> · <code>Three.js</code> · <code>React Three Fiber</code> · <code>Tailwind CSS</code> · <code>HTML5</code> · <code>CSS3</code></td>
+    <td><code>React 19</code> · <code>Three.js</code> · <code>Tailwind CSS</code> · <code>HTML5</code> · <code>CSS3</code></td>
   </tr>
   <tr>
     <td width="22%"><strong>Backend &amp; DB</strong></td>
-    <td><code>Node.js</code> · <code>Express.js</code> · <code>MongoDB</code> · <code>MySQL</code> · <code>REST APIs</code></td>
+    <td><code>Node.js</code> · <code>MySQL</code> · <code>REST APIs</code></td>
   </tr>
   <tr>
     <td width="22%"><strong>DevOps &amp; Tools</strong></td>
-    <td><code>Git &amp; GitHub</code> · <code>Docker</code> · <code>Vite</code> · <code>Linux</code> · <code>Vercel</code> · <code>PyInstaller</code></td>
+    <td><code>Git &amp; GitHub</code> · <code>Vite</code> · <code>Linux</code> · <code>Vercel</code></td>
   </tr>
 </table>
 
@@ -91,15 +91,6 @@ A cross-platform terminal media search and download tool.
   <tr>
     <td width="50%" valign="top">
 
-### [Newton's Glitch](https://github.com/Aizaz-Noor/Newtons-Glitch)
-A physics-based arcade game written in Java and JavaFX without third-party game engines.
-- Custom 2D physics loop handling gravity inversion and multi-object collisions at 60 FPS.
-- State machines for player movement, hazards, and level transitions.
-- **Stack:** `Java` `JavaFX` `OOP` `Game Dev`
-
-    </td>
-    <td width="50%" valign="top">
-
 ### [Weekly Habit Tracker](https://github.com/Aizaz-Noor/habit-tracker) · [Live Demo ↗](https://habit-tracker-beryl-chi.vercel.app)
 A lightweight habit tracker with visual streak analysis.
 - Multi-week streak calculation and instant state sync with LocalStorage.
@@ -125,10 +116,10 @@ A terminal-based shared expense manager written in C++ for roommates and hostel 
 
 ## Certifications
 
-- **Microsoft Learn Student Ambassador** — Microsoft (2025)
-- **Career & Soft Skills Program** — Google / PFA (2024)
-- **Frontend Web Development** — MLSA FAST Peshawar (2024)
-- **ACM Leadership & Event Management** — ACM CUI Lahore (2024)
+- **Microsoft Learn Student Ambassador** Microsoft (2025)
+- **Career & Soft Skills Program** Google / PFA (2024)
+- **Frontend Web Development** MLSA FAST Peshawar (2024)
+- **ACM Leadership & Event Management** ACM CUI Lahore (2024)
 
 <br/>
 
