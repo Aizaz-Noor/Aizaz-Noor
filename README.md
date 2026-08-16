@@ -13,13 +13,13 @@
 
 <br/>
 
-## ✦ About Me
+##  About Me
 
 Software Engineering undergraduate at **COMSATS University Islamabad (Lahore Campus)** building responsive **MERN stack** web applications, **3D WebGL** interactive experiences, memory-efficient **CLI utilities**, and exploring **DevOps, cloud systems, and AI automation**.
 
-- 🔭 **Current Focus:** Full-stack SaaS development (MERN, TypeScript, Node.js), 3D Web (Three.js / React Three Fiber), and high-performance terminal systems.
-- 🎓 **Education:** BSE Software Engineering (COMSATS University Islamabad, Lahore Campus).
-- ⚡ **Philosophy:** Clean code, robust data structures, zero-slop design aesthetics, and shipping real software.
+- **Current Focus:** Full-stack SaaS development (MERN, TypeScript, Node.js), 3D Web (Three.js / React Three Fiber), and high-performance terminal systems.
+- **Education:** BSE Software Engineering (COMSATS University Islamabad, Lahore Campus).
+- **Philosophy:** Clean code, robust data structures, zero-slop design aesthetics, and shipping real software.
 
 <br/>
 
@@ -27,7 +27,7 @@ Software Engineering undergraduate at **COMSATS University Islamabad (Lahore Cam
 
 <br/>
 
-## 🛠️ Technical Arsenal
+## Technical Arsenal
 
 <table>
   <tr>
@@ -58,7 +58,7 @@ Software Engineering undergraduate at **COMSATS University Islamabad (Lahore Cam
 
 <br/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <img src="./assets/ank-cinema-pipeline.svg" width="100%" alt="ANK-CINEMA request pipeline architecture" />
 
@@ -66,7 +66,7 @@ Software Engineering undergraduate at **COMSATS University Islamabad (Lahore Cam
   <tr>
     <td width="50%" valign="top">
 
-### 🌐 [3D Interactive Portfolio](https://github.com/Aizaz-Noor/MyCV) · [Live Demo ↗](https://aizaznoorkhuwaja.vercel.app/)
+### [3D Interactive Portfolio](https://github.com/Aizaz-Noor/MyCV) · [Live Demo ↗](https://aizaznoorkhuwaja.vercel.app/)
 Interactive 3D developer showcase engineered with hardware-accelerated WebGL particle vortex and Apple-grade Liquid Glass UI.
 - **Features:** VisionOS 3D mouse parallax, 1px top specular rim light catches, Emil Kowalski spring physics, zero-re-render custom cursor, and in-browser resume PDF viewer.
 - **Stack:** `React 19` `Three.js` `React Three Fiber` `Vite 8` `CSS3 Glassmorphism`
@@ -74,25 +74,16 @@ Interactive 3D developer showcase engineered with hardware-accelerated WebGL par
     </td>
     <td width="50%" valign="top">
 
-### 🎬 [ANK-CINEMA](https://github.com/Aizaz-Noor/ANK-CINEMA)
+### [ANK-CINEMA](https://github.com/Aizaz-Noor/ANK-CINEMA)
 Cross-platform terminal CLI media downloader with parallel multi-source search engine.
 - **Features:** Sub-second torrent resolution, magnet enrichment across 16 trackers, info-hash deduplication, self-healing DNS on Linux, and zero-python-dependency distribution.
 - **Stack:** `Python` `Rich` `aria2c` `PyInstaller` `pytest` · **v3.0.1 Released**
 
     </td>
   </tr>
-  <tr>
     <td width="50%" valign="top">
 
-### 🎮 [Newton's Glitch](https://github.com/Aizaz-Noor/Newtons-Glitch)
-Physics-based JavaFX game built from scratch without external physics engines.
-- **Features:** Custom 60 FPS 2D physics engine handling 100+ rigid body collisions, gravity-flip mechanics, velocity vectors, and scale-dependent collision response.
-- **Stack:** `Java` `JavaFX` `Custom Physics Engine` `Game Dev`
-
-    </td>
-    <td width="50%" valign="top">
-
-### 📊 [Weekly Habit Tracker](https://github.com/Aizaz-Noor/habit-tracker) · [Live Demo ↗](https://habit-tracker-beryl-chi.vercel.app)
+### [Weekly Habit Tracker](https://github.com/Aizaz-Noor/habit-tracker) · [Live Demo ↗](https://habit-tracker-beryl-chi.vercel.app)
 Interactive single-page habit tracker with responsive weekly visualization.
 - **Features:** Multi-week streak calculation engine, zero-latency local storage state management, dynamic completion analytics, and responsive grid layout.
 - **Stack:** `React` `Vite` `Tailwind CSS` `State Management`
@@ -102,7 +93,7 @@ Interactive single-page habit tracker with responsive weekly visualization.
   <tr>
     <td colspan="2" valign="top">
 
-### 🏨 [Hostel Kharcha Manager](https://github.com/Aizaz-Noor/Hostel-Kharcha-Manager)
+### [Hostel Kharcha Manager](https://github.com/Aizaz-Noor/Hostel-Kharcha-Manager)
 Terminal-based collaborative expense tracker engineered in C++ for shared living environments.
 - **Features:** Custom hash map data structures, automated budget report generation, interactive Text User Interface (TUI), and persistent file storage.
 - **Stack:** `C++` `Terminal UI` `Custom Hash Maps` `Data Structures`
@@ -113,16 +104,16 @@ Terminal-based collaborative expense tracker engineered in C++ for shared living
 
 <br/>
 
-## 📜 Verified Certifications & Leadership
+## Verified Certifications & Leadership
 
-- 🏅 **Microsoft Learn Student Ambassador** — Microsoft (2025)
-- 🏅 **Career & Soft Skills Program** — Google / PFA (2024)
-- 🏅 **Frontend Web Development** — MLSA FAST Peshawar (2024)
-- 🏅 **Event Emperors & 404 Squad** — ACM CUI Lahore Chapter (2024)
+- 🏅 **Microsoft Learn Student Ambassador** Microsoft (2025)
+- 🏅 **Career & Soft Skills Program** Google / PFA (2024)
+- 🏅 **Frontend Web Development** MLSA FAST Peshawar (2024)
+- 🏅 **Event Emperors & 404 Squad** ACM CUI Lahore Chapter (2024)
 
 <br/>
 
-## 📊 Engineering Telemetry & Activity
+## Engineering Telemetry & Activity
 
 <div align="center">
 
