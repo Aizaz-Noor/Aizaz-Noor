@@ -65,7 +65,6 @@ I am a Software Engineering student at **COMSATS University Islamabad (Lahore Ca
 
 <img src="./assets/ank-cinema-pipeline.svg" width="100%" alt="ANK-CINEMA request pipeline architecture" />
 
-<table>
   <tr>
     <td width="50%" valign="top">
 
@@ -110,7 +109,6 @@ A terminal-based shared expense manager written in C++ for roommates and hostel 
 
     </td>
   </tr>
-</table>
 
 <br/>
 
