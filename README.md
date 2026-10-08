@@ -1,169 +1,134 @@
 <div align="center">
 
-<img src="./assets/hero-command-center.svg" width="100%" alt="Aizaz Noor Khuwaja — Software Engineer" />
+<img src="./assets/profile-studio.svg" width="100%" alt="Aizaz Noor Khuwaja — Software Engineering student building web applications, applied AI, and desktop tools" />
 
-<br/><br/>
+# Hi, I'm Aizaz 👋
 
-<a href="https://aizaznoorkhuwaja.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-090A12?style=for-the-badge&logo=vercel&logoColor=64D2FF" alt="Live Portfolio" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/aizaz-noor" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-090A12?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:aizaznoorkhuwaja@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-090A12?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
-</a>
-&nbsp;
+**I turn everyday problems into software people can use.**
+
+Software Engineering student at **COMSATS University Islamabad, Lahore Campus**.<br/>
+Working across web interfaces, AI integrations, and desktop tools — with an eye for design and a habit of learning by building.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_my_work-101B30?style=for-the-badge&logo=vercel&logoColor=67E8F9)](https://aizaznoorkhuwaja.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-101B30?style=for-the-badge&logo=linkedin&logoColor=C4B5FD)](https://www.linkedin.com/in/aizaz-noor)
+[![Email](https://img.shields.io/badge/Email-Say_hello-101B30?style=for-the-badge&logo=gmail&logoColor=67E8F9)](mailto:aizaznoorkhuwaja@gmail.com)
+
+[Featured work](#featured-work) · [Toolbox](#toolbox) · [Beyond the code](#beyond-the-code) · [Activity](#activity)
 
 </div>
 
-<br/>
+---
 
-## About Me
+## What I'm building toward
 
-I am a Software Engineering student at **COMSATS University Islamabad (Lahore Campus)**. I build full-stack web applications with the MERN stack, 3D web interfaces with Three.js, and command-line tools in Python and C++.
+My projects range from a weekly habit tracker to a Windows networking app and an AI meeting-to-task workflow. I enjoy the whole path: understanding a problem, designing the interface, connecting the logic, and making the result easier to use.
 
-- **What I work on:** Web apps (React 19, Node.js, Express, MongoDB), 3D browser graphics (Three.js / React Three Fiber), and desktop/CLI tooling (Python, C++).
-- **Background:** Started with foundational projects like 2D games and university management systems, then moved into distributed search tools, custom physics implementations, and modern frontend design systems.
-- **Location:** Lahore, Pakistan (UTC+5).
+- **Web & interaction:** React applications, responsive interfaces, and optional Three.js experiences.
+- **Applied AI:** Turning model output into validated, saved work with clear permissions and recovery states.
+- **Systems & tools:** Python automation, C++ data structures, and desktop networking with Tauri.
+- **Engineering habits:** Tests, readable documentation, and honest descriptions of what each project can do.
 
-<br/>
+## Featured work
 
-<img src="./assets/principles-panel.svg" width="100%" alt="Mission, engineering principles, and focus-area radar" />
+### 01 / NovaWorks — From meeting decisions to assigned work
 
-<br/>
+**An AI project-management demo built with Code Nomads.** Meeting transcripts become saved projects and tasks with owners, deadlines, and effort estimates. The app validates the generated batch before saving it and scopes access by role.
 
-## Skills & Stack
+My contribution: **product direction, UI/UX, frontend, integration, and repository ownership**.
 
-<table>
-  <tr>
-    <td width="22%"><strong>Languages</strong></td>
-    <td><code>Python</code> · <code>C++</code> · <code>Java</code> · <code>JavaScript</code> · <code>SQL</code></td>
-  </tr>
-  <tr>
-    <td width="22%"><strong>Frontend &amp; 3D</strong></td>
-    <td><code>React 19</code> · <code>Three.js</code> · <code>Tailwind CSS</code> · <code>HTML5</code> · <code>CSS3</code></td> · <code>JavaFx</code>
-  </tr>
-  <tr>
-    <td width="22%"><strong>Backend &amp; DB</strong></td>
-    <td><code>Node.js</code> · <code>MySQL</code> · <code>REST APIs</code></td>
-  </tr>
-  <tr>
-    <td width="22%"><strong>DevOps &amp; Tools</strong></td>
-    <td><code>Git &amp; GitHub</code> · <code>Vite</code> · <code>Linux</code> · <code>Vercel</code></td>
-  </tr>
-</table>
+`React 19` `Node.js` `Express 5` `PostgreSQL / SQLite` `AI integration`
+
+[Explore the code →](https://github.com/Aizaz-Noor/Nova-Works) · [Try the demo ↗](https://nova-works-zeta.vercel.app) · [Walkthrough](https://github.com/Aizaz-Noor/Nova-Works/blob/main/docs/assets/novaworks-demo.mp4)
+
+<details>
+<summary>Peek inside the workspace</summary>
 
 <br/>
 
-## Projects
+<a href="https://github.com/Aizaz-Noor/Nova-Works">
+  <img src="https://raw.githubusercontent.com/Aizaz-Noor/Nova-Works/main/docs/assets/laptop-workspace.png" width="100%" alt="NovaWorks administrator workspace showing projects and assigned work" />
+</a>
 
-<img src="./assets/ank-cinema-pipeline.svg" width="100%" alt="ANK-CINEMA request pipeline architecture" />
+Built for the Infinity Hack '26 challenge and improved afterward as a portfolio project. The public demo uses shared fictional accounts.
 
-  <tr>
-    <td width="50%" valign="top">
+</details>
 
-### [3D Interactive Portfolio](https://github.com/Aizaz-Noor/MyCV) · [Live Demo ↗](https://aizaznoorkhuwaja.vercel.app/)
-An interactive web portfolio built with React 19 and Three.js.
-- Particle tunnel background rendered in WebGL with mouse parallax.
-- Glassmorphism UI with custom spring animations and smooth transitions.
-- Integrated PDF resume preview and zero-delay custom cursor.
-- **Stack:** `React 19` `Three.js` `React Three Fiber` `Vite` `CSS3`
+### 02 / Tandem — A desktop interface for multiple internet links
 
-    </td>
-    <td width="50%" valign="top">
+**A Windows app for choosing and managing network adapters.** Local Dispatcher distributes separate proxy-aware connections across selected adapters; optional Cloud Bonding connects to a compatible server.
 
-### [ANK-CINEMA](https://github.com/Aizaz-Noor/ANK-CINEMA)
-A cross-platform terminal media search and download tool.
-- Parallel multi-source searching using `ThreadPoolExecutor` across 16 trackers.
-- Magnet link enrichment, info-hash deduplication, and DNS failover on Linux.
-- Packaged with PyInstaller so it runs without installing Python dependencies.
-- **Stack:** `Python` `Rich` `aria2c` `PyInstaller` `pytest` · **v3.0.1**
+A project at the intersection of desktop UI, Python services, and network behavior. Local mode does not merge multiple links into one faster download.
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+`Tauri 2` `React` `TypeScript` `Python` `Networking`
 
-### [Weekly Habit Tracker](https://github.com/Aizaz-Noor/habit-tracker) · [Live Demo ↗](https://habit-tracker-beryl-chi.vercel.app)
-A lightweight habit tracker with visual streak analysis.
-- Multi-week streak calculation and instant state sync with LocalStorage.
-- Clean responsive grid layout for daily check-ins and completion metrics.
-- **Stack:** `React` `Vite` `Tailwind CSS`
+[Explore the code →](https://github.com/Aizaz-Noor/Tandem) · [Windows releases ↗](https://github.com/Aizaz-Noor/Tandem/releases/latest)
 
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
+### 03 / MyCV — A portfolio with room for a little atmosphere
 
-### [Hostel Kharcha Manager](https://github.com/Aizaz-Noor/Hostel-Kharcha-Manager)
-A terminal-based shared expense manager written in C++ for roommates and hostel students.
-- Custom hash map data structures for fast lookups and debt calculations.
-- Formatted text UI with automated monthly breakdown reports and file persistence.
-- **Stack:** `C++` `CLI` `Data Structures` `File I/O`
+**My personal home on the web.** A React portfolio with project stories, credentials, contact options, and a résumé viewer. An optional Three.js background adds depth on supported desktops; the main content works without WebGL.
 
-    </td>
-  </tr>
+`React 19` `Vite` `Three.js` `CSS`
 
-<br/>
+[Explore the code →](https://github.com/Aizaz-Noor/MyCV) · [Visit the portfolio ↗](https://aizaznoorkhuwaja.vercel.app/)
 
-## Certifications
+### 04 / ANK-CINEMA — Parallel search, built for the terminal
 
-- **Microsoft Learn Student Ambassador** Microsoft (2025)
-- **Career & Soft Skills Program** Google / PFA (2024)
-- **Frontend Web Development** MLSA FAST Peshawar (2024)
-- **ACM Leadership & Event Management** ACM CUI Lahore (2024)
+**A Python media search and download CLI.** Two sources are searched concurrently, results are deduplicated by info-hash, and magnet links are enriched with trackers before being passed to aria2c.
 
-<br/>
+`Python` `Rich` `ThreadPoolExecutor` `aria2c` `pytest`
 
-## Activity & Stats
+[Explore the code →](https://github.com/Aizaz-Noor/ANK-CINEMA) · [How it works](https://github.com/Aizaz-Noor/ANK-CINEMA#how-it-works)
 
-<div align="center">
+### More from the workshop
 
-<a href="https://github.com/Aizaz-Noor"><img src="https://komarev.com/ghpvc/?username=Aizaz-Noor&style=flat-square&color=2997ff&label=PROFILE+VIEWS" alt="Profile Views" /></a>
-&nbsp;
-<a href="https://github.com/Aizaz-Noor?tab=followers"><img src="https://img.shields.io/github/followers/Aizaz-Noor?style=flat-square&logo=github&color=bf5af2&label=FOLLOWERS" alt="Followers" /></a>
-&nbsp;
-<a href="https://github.com/Aizaz-Noor"><img src="https://img.shields.io/badge/LOCATION-LAHORE%2C%20PK-30d158?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" /></a>
+| Project | The idea | Built with |
+| :--- | :--- | :--- |
+| [Weekly Habit Tracker](https://github.com/Aizaz-Noor/habit-tracker) | A weekly check-in grid, streaks across weeks, and browser-local persistence. | React 19, TypeScript, Vite, plain CSS |
+| [Hostel Kharcha Manager](https://github.com/Aizaz-Noor/Hostel-Kharcha-Manager) | Shared expense tracking for roommates and hostel students. | C++, data structures, file I/O |
+| [Newton's Glitch](https://github.com/Aizaz-Noor/Newtons-Glitch) | A Flappy Bird reimagining with particles and adaptive difficulty. | Java, JavaFX, Maven |
 
-<br/><br/>
+## Toolbox
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aizaz-Noor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2997ff&icon_color=64d2ff&text_color=c9d1d9&border_radius=12" alt="GitHub Stats" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Aizaz-Noor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2997ff&text_color=c9d1d9&layout=compact&border_radius=12" alt="Top Languages" height="170"/>
-</p>
+| Area | Technologies I work with |
+| :--- | :--- |
+| **Languages** | JavaScript · TypeScript · Python · C++ · Java · SQL |
+| **Interfaces** | React · HTML · CSS · Tailwind CSS · Three.js · JavaFX |
+| **Backend & data** | Node.js · Express · REST APIs · PostgreSQL · SQLite · MySQL |
+| **Desktop & tooling** | Tauri · Git & GitHub · Vite · Vercel · Linux |
+| **Testing** | pytest · Automated checks with GitHub Actions |
 
-<p align="center">
-  <img src="https://readme-stats-fast.vercel.app/api/streak/?username=Aizaz-Noor&theme=tokyonight&hide_border=true&background=0d1117&stroke=2997ff&ring=bf5af2&fire=2997ff&currStreakLabel=64d2ff&border_radius=12" alt="GitHub Streak"/>
-</p>
+## Beyond the code
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-kappa.vercel.app/?username=Aizaz-Noor&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Trophies"/>
-  </a>
-</p>
+Based in **Lahore, Pakistan (UTC+5)**. My learning started with games, university projects, and data structures, and now includes building complete applications with interfaces, services, and deployment.
 
-<br/>
+<details>
+<summary>Community & credentials</summary>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aizaz-Noor&bg_color=00000000&color=A1A1A6&line=2997ff&point=bf5af2&area=true&area_color=2997ff&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
+- **Microsoft Learn Student Ambassador** — Microsoft, 2025
+- **Career & Soft Skills Program** — Google / PFA, 2024
+- **Frontend Web Development** — MLSA FAST Peshawar, 2024
+- **ACM Leadership & Event Management** — ACM CUI Lahore, 2024
 
-<br/>
+</details>
+
+## Activity
+
+Explore [my repositories](https://github.com/Aizaz-Noor?tab=repositories) and [recent GitHub activity](https://github.com/Aizaz-Noor?tab=overview) for the latest work.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aizaz-Noor/Aizaz-Noor/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aizaz-Noor/Aizaz-Noor/output/snake.svg" />
-  <img src="https://raw.githubusercontent.com/Aizaz-Noor/Aizaz-Noor/output/snake-dark.svg" width="100%" alt="Animated contribution graph" />
+  <img src="https://raw.githubusercontent.com/Aizaz-Noor/Aizaz-Noor/output/snake-dark.svg" width="100%" alt="Contribution-grid snake animation; visit my GitHub activity link above for contribution details" />
 </picture>
-
-</div>
-
-<br/>
 
 ---
 
 <div align="center">
-  <sub><a href="https://aizaznoorkhuwaja.vercel.app/">aizaznoorkhuwaja.vercel.app</a></sub>
+
+**Have an interesting problem to build around?**
+
+[Email me](mailto:aizaznoorkhuwaja@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/aizaz-noor) · [Explore my portfolio](https://aizaznoorkhuwaja.vercel.app/)
+
+<sub>Built with curiosity. Improved with every iteration. · Profile refreshed October 2026.</sub>
+
 </div>
